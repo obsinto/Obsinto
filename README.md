@@ -9,7 +9,7 @@
 🚀 Passionate about Laravel and PHP Development<br>
 🌐 Currently building a SaaS startup called **AgilyTech**, focusing on public management solutions for municipalities<br>
 
-![Deyvid's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvidsantt&show_icons=true&theme=dracula)
+![Deyvid's GitHub stats](https://github-readme-stats.vercel.app/api?username=obsinto&show_icons=true&theme=dracula)
 
 ## Technologies I use:
 <div style="display: inline_block">
