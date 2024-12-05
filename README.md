@@ -1,23 +1,69 @@
-### Hi! Deyvid here!
+<h1 align="center">Hi there! 👋 I'm Deyvid</h1>
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deyvidsantt/)
+<p align="center">
+  <a href="https://www.instagram.com/deyvidsantt/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEULINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-## About me:
+<p align="center">🚀 Backend Developer | PHP & Laravel Specialist | SaaS Builder</p>
 
-👨‍💻 **Backend Developer** and Technology Enthusiast<br>
-📚 Lover of Japanese RPGs and Music Enthusiast (Rap, Indie Pop, Progressive Rock)<br>
-🚀 Passionate about Laravel and PHP Development<br>
-🌐 Currently building a SaaS startup called **AgilyTech**, focusing on public management solutions for municipalities<br>
+## 👨‍💻 About Me
 
-![Deyvid's GitHub stats](https://github-readme-stats.vercel.app/api?username=obsinto&show_icons=true&theme=dracula)
+- 🎯 Founder of **AgilyTech**, developing innovative SaaS solutions for public management
+- 💼 Specialized in building scalable applications with Laravel and PHP
+- 🌱 Currently mastering microservices architecture and cloud solutions
+- 🎮 Japanese RPG enthusiast and music lover (Rap, Indie Pop, Progressive Rock)
+- 💡 Passionate about transforming public administration through technology
 
-## Technologies I use:
-<div style="display: inline_block">
-	<img align="center" alt= "PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
-	<img align="center" alt= "Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
-	<img align="center" alt= "MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-	<img align="center" alt= "Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+### Tools & Technologies
+```text
+Backend Development     ███████████████░░   90%
+Laravel Framework      ███████████████░░   90%
+Database Design        ██████████████░░░   85%
+API Development        ███████████████░░   90%
+Docker & DevOps        ████████░░░░░░░░   50%
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obsinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=obsinto&theme=dracula"/>
 </div>
-<br>
-<br>
-Exploring new technologies and always seeking growth. Currently working on SaaS solutions and public administration systems for municipalities. 24 years old with a passion for learning and building impactful systems.</br>
+
+## 🚀 Featured Projects
+
+### AgilyTech
+- 🏛️ SaaS platform for public management
+- 🔧 Built with Laravel, MySQL, and Docker
+- 📱 Focus on user experience and efficiency
+- 🎯 Helping municipalities modernize their processes
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/SEULINKEDIN)
+- 📸 [Instagram](https://www.instagram.com/deyvidsantt/)
+- 🌐 [Portfolio](https://seusite.com.br)
+
+---
+
+<p align="center">
+  <i>24 years old, constantly learning and building solutions that matter.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=obsinto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
