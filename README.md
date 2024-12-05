@@ -13,11 +13,13 @@
 
 ## 👨‍💻 About Me
 
+- ✝️ Christian, living and working by faith principles
 - 🎯 Founder of **AgilyTech**, developing innovative SaaS solutions for public management
 - 💼 Specialized in building scalable applications with Laravel and PHP
 - 🌱 Currently mastering microservices architecture and cloud solutions
-- 🎮 Japanese RPG enthusiast and music lover (Rap, Indie Pop, Progressive Rock)
+- 🎵 Music enthusiast (Rap, Indie Pop, Progressive Rock)
 - 💡 Passionate about transforming public administration through technology
+- 🙏 Believing in technology as a tool to help and serve others
 
 ## 🛠 Tech Stack
 
@@ -51,6 +53,7 @@ Docker & DevOps        ████████░░░░░░░░   50%
 - 🔧 Built with Laravel, MySQL, and Docker
 - 📱 Focus on user experience and efficiency
 - 🎯 Helping municipalities modernize their processes
+- ❤️ Building technology with purpose and social impact
 
 ## 📫 Let's Connect!
 
@@ -61,7 +64,11 @@ Docker & DevOps        ████████░░░░░░░░   50%
 ---
 
 <p align="center">
-  <i>24 years old, constantly learning and building solutions that matter.</i>
+  <i>"Whatever you do, work heartily, as for the Lord and not for men" - Colossians 3:23</i>
+</p>
+
+<p align="center">
+  24 years old, building solutions that matter while glorifying God through technology
 </p>
 
 <p align="center">
