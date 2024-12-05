@@ -68,7 +68,7 @@ Docker & DevOps        ████████░░░░░░░░   50%
 </p>
 
 <p align="center">
-  24 years old, building solutions that matter while glorifying God through technology
+  26 years old, building solutions that matter while glorifying God through technology
 </p>
 
 <p align="center">
